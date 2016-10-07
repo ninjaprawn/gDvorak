@@ -1,0 +1,10 @@
+Package: com.ninjaprawn.gdvorak
+Name: gDvorak
+Depends: mobilesubstrate
+Version: 1.0
+Icon: file:///Library/PreferenceLoader/Preferences/icon@3x.png
+Architecture: iphoneos-arm
+Description: Changes the layout of GBoard to Dvorak
+Maintainer: George Dan
+Author: George Dan
+Section: Tweaks
