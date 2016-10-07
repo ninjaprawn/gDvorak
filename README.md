@@ -1,5 +1,9 @@
 # gDvorak
-Dvorak keyboard layout for Gboard. Activate through settings like so:
+Dvorak keyboard layout for Gboard.
+
+This was completed for a [request](https://www.reddit.com/r/TweakBounty/comments/53zu4v/50_dvorak_layout_for_gboard/).
+
+Activate through settings like so:
 
 ![settings](images/1.jpg)
 
