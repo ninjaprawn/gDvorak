@@ -1,3 +1,5 @@
+**Archived - No guarantees this code still works for current iOS versions as well as Gboard. This was written for ~iOS10.**  
+
 # gDvorak
 Dvorak keyboard layout for Gboard.
 
